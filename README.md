@@ -1,7 +1,7 @@
 ## 📊 Dataset Description
 
 Each dataset is provided in **JSON format** and includes a structured list of news articles.
-Key words used for search: 'crypto', 'coin', 'blockchain', 'bitcoin', 'ethereum', web3', 'defi', 'dapp', 'metaverse'
+Keywords used for search: 'crypto', 'coin', 'blockchain', 'bitcoin', 'ethereum', web3', 'defi', 'dapp', 'metaverse'
 
 
 ### Top-Level Fields
@@ -35,5 +35,6 @@ Key words used for search: 'crypto', 'coin', 'blockchain', 'bitcoin', 'ethereum'
 
 ---
 
-Looking for a custom feed on any topic, time range, or with full article content?👉 [Contact us](https://www.newsoid.io/)
+Looking for a custom feed on any topic, time range, or with full article content? 
+👉 [Contact us](https://www.newsoid.io/)
 
